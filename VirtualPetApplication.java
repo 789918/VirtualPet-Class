@@ -10,7 +10,7 @@ public class VirtualPetApplication {
         VirtualPet pet = new VirtualPet(petName);
 
         System.out.println("Welcome to Virtual Pet: " + pet.getName());
-
+        
         while (true) {
             System.out.println("----------------------------");
             System.out.println("1. Feed " + pet.getName());
