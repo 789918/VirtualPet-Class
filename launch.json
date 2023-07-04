@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "VirtualPetApplication",
+            "request": "launch",
+            "mainClass": "com.example.VirtualPetApplication",
+            "projectName": "Virtual Pet"
+        }
+    ]
+}
